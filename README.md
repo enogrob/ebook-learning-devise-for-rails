@@ -16,8 +16,8 @@ Learn everything you need to about the subject of this `eBook` project.
 ## Topics
 ```
 1: DEVISE – AUTHENTICATION SOLUTION FOR RUBY ON RAILS
-[ ] Devise modules
-[ ] Installation
+[x] Devise modules
+[x] Installation
 [ ] Run your first application with Devise
 [ ] Summary
 2: AUTHENTICATING YOUR APPLICATION WITH DEVISE
