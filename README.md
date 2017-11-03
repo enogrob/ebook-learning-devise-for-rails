@@ -18,8 +18,8 @@ Learn everything you need to about the subject of this `eBook` project.
 1: DEVISE – AUTHENTICATION SOLUTION FOR RUBY ON RAILS
 [x] Devise modules
 [x] Installation
-[ ] Run your first application with Devise
-[ ] Summary
+[x] Run your first application with Devise
+[x] Summary
 2: AUTHENTICATING YOUR APPLICATION WITH DEVISE
 [ ] Signing in using authentication other than e-mails
 [ ] Updating the user account
